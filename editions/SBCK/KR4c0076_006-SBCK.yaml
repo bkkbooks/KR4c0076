@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0076/SBCK/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 李義山文集箋註
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-24 23:48:47.448864'
+  source:
+    repository: kanripo
+    path: KR4c0076/KR4c0076_006.txt
+hash: sha256:36e6ecfa9237b3f6ae902a5008d5ebf13b41552f684e626b335fdc87d9c587c6
